@@ -11,7 +11,7 @@ The application is an event consumer, which is intended to receive events from t
 6.  Update the score in redis.
 7.  Send request to db/cache to store StudentHealth.
 
-## Running Structure Bikes locally
+## Running `prisms-event-consumer` locally
 
 Run `npm i` to install all the packages.
 Run `npm start` will start the dev server.
