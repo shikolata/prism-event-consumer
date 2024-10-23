@@ -32,6 +32,8 @@ Use postman to initiate an initial request as the following:
 }
 ```
 
+Note: a mock server is used (Mock Service Worker); the handlers are at root/mocks/handlers.ts
+
 ## Requirements
 
 This application requires setting up redis on your local environment.
@@ -43,3 +45,4 @@ Follow the steps in the following document depending on your environment: https:
 - Unit Testing
 - Batch Event Processing
 - Swagger
+- Mock Server randomized responses
