@@ -46,3 +46,6 @@ Follow the steps in the following document depending on your environment: https:
 - Batch Event Processing
 - Swagger
 - Mock Server randomized responses
+
+## System Design
+![alt text](<system-design.jpg>)
