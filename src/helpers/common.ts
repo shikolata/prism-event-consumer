@@ -1,0 +1,1 @@
+export const calculateStudentScore = (completedActions: number, totalActions: number) => +((completedActions / totalActions).toFixed(2)) * 100
