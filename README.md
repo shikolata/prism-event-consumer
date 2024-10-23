@@ -13,8 +13,8 @@ The application is an event consumer, which is intended to receive events from t
 
 ## Running `prisms-event-consumer` locally
 
-Run `npm i` to install all the packages.
-Run `npm start` will start the dev server.
+- Run `npm i` to install all the packages.
+- Run `npm start` will start the dev server.
 
 Use postman to initiate an initial request as the following:
 - Method: POST
